@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>Felceta Golf & Country Club (demo)</title>
+    <script>
+      // GitHub Pages: send deep links back to the app, which restores the path from ?p=
+      var base = '/felceta-golf-club-demo';
+      var rest = location.pathname.indexOf(base) === 0 ? location.pathname.slice(base.length) : location.pathname;
+      location.replace(base + '/?p=' + encodeURIComponent(rest + location.search + location.hash));
+    </script>
+  </head>
+  <body></body>
+</html>

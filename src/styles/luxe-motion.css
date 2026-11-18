@@ -1,0 +1,44 @@
+/* Interaction feedback. Scroll choreography lives in components/Motion.tsx (GSAP). */
+.button, .planner__submit, .header-contact { transition: background 400ms var(--ease), color 400ms var(--ease), border-color 400ms var(--ease); }
+.button svg, .planner__submit svg, .text-link::after, .quiet-link svg { transition: transform 600ms var(--ease); }
+.text-link { transition: background-size 600ms var(--ease), gap 600ms var(--ease); }
+.quiet-link, .footer-columns a, .footer-bottom a, .building-filters button, .course-tabs button, .room-options button, .gallery-choices button { transition: opacity 300ms, color 300ms, background 300ms, padding 500ms var(--ease); }
+.mobile-menu[open] { animation: menu-arrive 700ms var(--ease) both; }
+.mobile-menu[open] nav a { animation: menu-link 900ms var(--ease) both; }
+.mobile-menu[open] nav a:nth-child(2) { animation-delay: 60ms; }
+.mobile-menu[open] nav a:nth-child(3) { animation-delay: 120ms; }
+.mobile-menu[open] nav a:nth-child(4) { animation-delay: 180ms; }
+.mobile-menu[open] nav a:nth-child(5) { animation-delay: 240ms; }
+.mobile-menu[open] .mobile-menu__visual img { animation: menu-image 1600ms var(--ease) both; }
+@keyframes menu-arrive { from { clip-path: inset(0 0 100% 0); } to { clip-path: inset(0); } }
+@keyframes menu-link { from { transform: translateY(30px); opacity: 0; } to { transform: none; opacity: 1; } }
+@keyframes menu-image { from { transform: scale(1.12); } to { transform: none; } }
+
+@media (hover: hover) {
+  .button--ink:hover, .button--forest:hover, .planner__submit:hover { background: var(--forest); border-color: var(--forest); }
+  .button--ivory:hover { background: transparent; color: var(--ivory); border-color: var(--ivory); }
+  .button:hover svg, .planner__submit:hover svg, .quiet-link:hover svg { transform: translateX(5px); }
+  .text-link:hover { gap: 20px; background-size: 0 1px; background-position: right calc(100% - 8px); }
+  .text-link:hover::after { transform: scaleX(1.5); }
+  .quiet-link:hover, .language-switch > a:hover { opacity: 1; }
+  .desktop-nav a:hover::after { transform: scaleX(1); transform-origin: left; }
+  .site-header:not(.is-solid) .header-contact:hover { background: var(--ivory); color: var(--ink); border-color: var(--ivory); }
+  .site-header.is-solid .header-contact:hover { background: var(--ink); color: var(--ivory); border-color: var(--ink); }
+  .course-tabs button:hover, .gallery-choices button:hover { color: var(--ink); }
+  .yardage__holes button:not([aria-selected=true]):hover { color: var(--on-dark); background: rgba(244, 240, 232, .06); }
+  .yardage__nav button:hover { border-color: var(--ivory); background: var(--ivory); color: var(--ink); }
+  .building-filters button:not([aria-pressed=true]):hover { border-color: var(--ink); }
+  .room-options button:not([aria-pressed=true]):hover { padding-left: 14px; }
+  .lx-card:hover .lx-card__image img { transform: scale(1.04); }
+  .lx-film__poster:hover .lx-film__play { transform: scale(1.08); background: var(--ivory); color: var(--ink); }
+  .lx-film__list button:hover > span:first-child { font-style: italic; }
+  .film-dialog__close:hover { border-color: var(--ivory); }
+  .menu-close:hover { color: var(--brass); }
+  .footer-columns a:hover, .footer-bottom a:hover { color: var(--brass); }
+}
+.button:active, .planner__submit:active { transform: translateY(1px); }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}

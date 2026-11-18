@@ -1,0 +1,731 @@
+{
+  "aerial-course": [
+    {
+      "src": "/images/aerial-course-480.webp",
+      "width": 480,
+      "height": 300
+    },
+    {
+      "src": "/images/aerial-course-640.webp",
+      "width": 640,
+      "height": 399
+    },
+    {
+      "src": "/images/aerial-course-960.webp",
+      "width": 960,
+      "height": 599
+    },
+    {
+      "src": "/images/aerial-course-1440.webp",
+      "width": 1440,
+      "height": 899
+    },
+    {
+      "src": "/images/aerial-course-2000.webp",
+      "width": 2000,
+      "height": 1248
+    }
+  ],
+  "aerial-detail": [
+    {
+      "src": "/images/aerial-detail-480.webp",
+      "width": 480,
+      "height": 325
+    },
+    {
+      "src": "/images/aerial-detail-640.webp",
+      "width": 640,
+      "height": 433
+    },
+    {
+      "src": "/images/aerial-detail-960.webp",
+      "width": 960,
+      "height": 650
+    },
+    {
+      "src": "/images/aerial-detail-1440.webp",
+      "width": 1440,
+      "height": 975
+    },
+    {
+      "src": "/images/aerial-detail-2000.webp",
+      "width": 2000,
+      "height": 1354
+    }
+  ],
+  "bosco-fairway": [
+    {
+      "src": "/images/bosco-fairway-480.webp",
+      "width": 480,
+      "height": 320
+    },
+    {
+      "src": "/images/bosco-fairway-640.webp",
+      "width": 640,
+      "height": 427
+    },
+    {
+      "src": "/images/bosco-fairway-960.webp",
+      "width": 960,
+      "height": 640
+    },
+    {
+      "src": "/images/bosco-fairway-1440.webp",
+      "width": 1440,
+      "height": 960
+    },
+    {
+      "src": "/images/bosco-fairway-2000.webp",
+      "width": 2000,
+      "height": 1333
+    }
+  ],
+  "bosco-green": [
+    {
+      "src": "/images/bosco-green-480.webp",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "src": "/images/bosco-green-640.webp",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "src": "/images/bosco-green-960.webp",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "src": "/images/bosco-green-1440.webp",
+      "width": 1440,
+      "height": 1080
+    },
+    {
+      "src": "/images/bosco-green-2000.webp",
+      "width": 2000,
+      "height": 1500
+    }
+  ],
+  "bunker": [
+    {
+      "src": "/images/bunker-480.webp",
+      "width": 480,
+      "height": 320
+    },
+    {
+      "src": "/images/bunker-640.webp",
+      "width": 640,
+      "height": 427
+    },
+    {
+      "src": "/images/bunker-960.webp",
+      "width": 960,
+      "height": 640
+    },
+    {
+      "src": "/images/bunker-1440.webp",
+      "width": 1440,
+      "height": 960
+    },
+    {
+      "src": "/images/bunker-2000.webp",
+      "width": 2000,
+      "height": 1333
+    }
+  ],
+  "canneti-lake": [
+    {
+      "src": "/images/canneti-lake-480.webp",
+      "width": 480,
+      "height": 320
+    },
+    {
+      "src": "/images/canneti-lake-640.webp",
+      "width": 640,
+      "height": 427
+    },
+    {
+      "src": "/images/canneti-lake-960.webp",
+      "width": 960,
+      "height": 640
+    },
+    {
+      "src": "/images/canneti-lake-1440.webp",
+      "width": 1440,
+      "height": 960
+    },
+    {
+      "src": "/images/canneti-lake-2000.webp",
+      "width": 2000,
+      "height": 1333
+    }
+  ],
+  "canneti-pond": [
+    {
+      "src": "/images/canneti-pond-480.webp",
+      "width": 480,
+      "height": 283
+    },
+    {
+      "src": "/images/canneti-pond-640.webp",
+      "width": 640,
+      "height": 378
+    },
+    {
+      "src": "/images/canneti-pond-960.webp",
+      "width": 960,
+      "height": 566
+    },
+    {
+      "src": "/images/canneti-pond-1440.webp",
+      "width": 1440,
+      "height": 850
+    },
+    {
+      "src": "/images/canneti-pond-2000.webp",
+      "width": 2000,
+      "height": 1180
+    }
+  ],
+  "clubhouse": [
+    {
+      "src": "/images/clubhouse-480.webp",
+      "width": 480,
+      "height": 320
+    },
+    {
+      "src": "/images/clubhouse-640.webp",
+      "width": 640,
+      "height": 427
+    },
+    {
+      "src": "/images/clubhouse-960.webp",
+      "width": 960,
+      "height": 640
+    },
+    {
+      "src": "/images/clubhouse-1440.webp",
+      "width": 1440,
+      "height": 960
+    },
+    {
+      "src": "/images/clubhouse-2000.webp",
+      "width": 2000,
+      "height": 1334
+    }
+  ],
+  "course-sunset": [
+    {
+      "src": "/images/course-sunset-480.webp",
+      "width": 480,
+      "height": 720
+    },
+    {
+      "src": "/images/course-sunset-640.webp",
+      "width": 640,
+      "height": 960
+    },
+    {
+      "src": "/images/course-sunset-960.webp",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "src": "/images/course-sunset-1440.webp",
+      "width": 1440,
+      "height": 2160
+    },
+    {
+      "src": "/images/course-sunset-2000.webp",
+      "width": 2000,
+      "height": 3000
+    }
+  ],
+  "dining-room": [
+    {
+      "src": "/images/dining-room-480.webp",
+      "width": 480,
+      "height": 320
+    },
+    {
+      "src": "/images/dining-room-640.webp",
+      "width": 640,
+      "height": 427
+    },
+    {
+      "src": "/images/dining-room-960.webp",
+      "width": 960,
+      "height": 641
+    },
+    {
+      "src": "/images/dining-room-1440.webp",
+      "width": 1440,
+      "height": 961
+    },
+    {
+      "src": "/images/dining-room-2000.webp",
+      "width": 2000,
+      "height": 1335
+    }
+  ],
+  "estate-aerial": [
+    {
+      "src": "/images/estate-aerial-480.webp",
+      "width": 480,
+      "height": 270
+    },
+    {
+      "src": "/images/estate-aerial-640.webp",
+      "width": 640,
+      "height": 360
+    },
+    {
+      "src": "/images/estate-aerial-960.webp",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "src": "/images/estate-aerial-1440.webp",
+      "width": 1440,
+      "height": 810
+    },
+    {
+      "src": "/images/estate-aerial-2000.webp",
+      "width": 2000,
+      "height": 1125
+    }
+  ],
+  "heritage": [
+    {
+      "src": "/images/heritage-480.webp",
+      "width": 480,
+      "height": 320
+    },
+    {
+      "src": "/images/heritage-640.webp",
+      "width": 640,
+      "height": 427
+    },
+    {
+      "src": "/images/heritage-960.webp",
+      "width": 960,
+      "height": 640
+    },
+    {
+      "src": "/images/heritage-1440.webp",
+      "width": 1440,
+      "height": 960
+    },
+    {
+      "src": "/images/heritage-2000.webp",
+      "width": 2000,
+      "height": 1333
+    }
+  ],
+  "hills-dawn": [
+    {
+      "src": "/images/hills-dawn-480.webp",
+      "width": 480,
+      "height": 163
+    },
+    {
+      "src": "/images/hills-dawn-640.webp",
+      "width": 640,
+      "height": 217
+    },
+    {
+      "src": "/images/hills-dawn-960.webp",
+      "width": 960,
+      "height": 325
+    },
+    {
+      "src": "/images/hills-dawn-1440.webp",
+      "width": 1440,
+      "height": 488
+    },
+    {
+      "src": "/images/hills-dawn-2000.webp",
+      "width": 2000,
+      "height": 678
+    }
+  ],
+  "island-green": [
+    {
+      "src": "/images/island-green-480.webp",
+      "width": 480,
+      "height": 367
+    },
+    {
+      "src": "/images/island-green-640.webp",
+      "width": 640,
+      "height": 489
+    },
+    {
+      "src": "/images/island-green-960.webp",
+      "width": 960,
+      "height": 734
+    },
+    {
+      "src": "/images/island-green-1440.webp",
+      "width": 1440,
+      "height": 1101
+    },
+    {
+      "src": "/images/island-green-2000.webp",
+      "width": 2000,
+      "height": 1529
+    }
+  ],
+  "lake-evening": [
+    {
+      "src": "/images/lake-evening-480.webp",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "src": "/images/lake-evening-640.webp",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "src": "/images/lake-evening-960.webp",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "src": "/images/lake-evening-1440.webp",
+      "width": 1440,
+      "height": 1080
+    },
+    {
+      "src": "/images/lake-evening-2000.webp",
+      "width": 2000,
+      "height": 1500
+    }
+  ],
+  "lake": [
+    {
+      "src": "/images/lake-480.webp",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "src": "/images/lake-640.webp",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "src": "/images/lake-960.webp",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "src": "/images/lake-1440.webp",
+      "width": 1440,
+      "height": 1080
+    },
+    {
+      "src": "/images/lake-2000.webp",
+      "width": 2000,
+      "height": 1500
+    }
+  ],
+  "lounge": [
+    {
+      "src": "/images/lounge-480.webp",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "src": "/images/lounge-640.webp",
+      "width": 640,
+      "height": 853
+    },
+    {
+      "src": "/images/lounge-960.webp",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "src": "/images/lounge-1440.webp",
+      "width": 1440,
+      "height": 1920
+    },
+    {
+      "src": "/images/lounge-2000.webp",
+      "width": 2000,
+      "height": 2667
+    }
+  ],
+  "meeting-room": [
+    {
+      "src": "/images/meeting-room-480.webp",
+      "width": 480,
+      "height": 320
+    },
+    {
+      "src": "/images/meeting-room-640.webp",
+      "width": 640,
+      "height": 427
+    },
+    {
+      "src": "/images/meeting-room-960.webp",
+      "width": 960,
+      "height": 640
+    },
+    {
+      "src": "/images/meeting-room-1440.webp",
+      "width": 1440,
+      "height": 960
+    },
+    {
+      "src": "/images/meeting-room-2000.webp",
+      "width": 2000,
+      "height": 1333
+    }
+  ],
+  "pool": [
+    {
+      "src": "/images/pool-480.webp",
+      "width": 480,
+      "height": 320
+    },
+    {
+      "src": "/images/pool-640.webp",
+      "width": 640,
+      "height": 427
+    },
+    {
+      "src": "/images/pool-960.webp",
+      "width": 960,
+      "height": 640
+    },
+    {
+      "src": "/images/pool-1440.webp",
+      "width": 1440,
+      "height": 960
+    },
+    {
+      "src": "/images/pool-2000.webp",
+      "width": 2000,
+      "height": 1333
+    }
+  ],
+  "reeds": [
+    {
+      "src": "/images/reeds-480.webp",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "src": "/images/reeds-640.webp",
+      "width": 640,
+      "height": 853
+    },
+    {
+      "src": "/images/reeds-960.webp",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "src": "/images/reeds-1440.webp",
+      "width": 1440,
+      "height": 1920
+    },
+    {
+      "src": "/images/reeds-2000.webp",
+      "width": 2000,
+      "height": 2667
+    }
+  ],
+  "restaurant": [
+    {
+      "src": "/images/restaurant-480.webp",
+      "width": 480,
+      "height": 320
+    },
+    {
+      "src": "/images/restaurant-640.webp",
+      "width": 640,
+      "height": 427
+    },
+    {
+      "src": "/images/restaurant-960.webp",
+      "width": 960,
+      "height": 640
+    },
+    {
+      "src": "/images/restaurant-1440.webp",
+      "width": 1440,
+      "height": 960
+    },
+    {
+      "src": "/images/restaurant-2000.webp",
+      "width": 2000,
+      "height": 1333
+    }
+  ],
+  "room-classic": [
+    {
+      "src": "/images/room-classic-480.webp",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "src": "/images/room-classic-640.webp",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "src": "/images/room-classic-960.webp",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "src": "/images/room-classic-1440.webp",
+      "width": 1440,
+      "height": 1080
+    },
+    {
+      "src": "/images/room-classic-2000.webp",
+      "width": 2000,
+      "height": 1500
+    }
+  ],
+  "suite": [
+    {
+      "src": "/images/suite-480.webp",
+      "width": 480,
+      "height": 330
+    },
+    {
+      "src": "/images/suite-640.webp",
+      "width": 640,
+      "height": 440
+    },
+    {
+      "src": "/images/suite-960.webp",
+      "width": 960,
+      "height": 660
+    },
+    {
+      "src": "/images/suite-1440.webp",
+      "width": 1440,
+      "height": 991
+    },
+    {
+      "src": "/images/suite-2000.webp",
+      "width": 2000,
+      "height": 1376
+    }
+  ],
+  "villa-aerial": [
+    {
+      "src": "/images/villa-aerial-480.webp",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "src": "/images/villa-aerial-640.webp",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "src": "/images/villa-aerial-960.webp",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "src": "/images/villa-aerial-1440.webp",
+      "width": 1440,
+      "height": 1080
+    },
+    {
+      "src": "/images/villa-aerial-2000.webp",
+      "width": 2000,
+      "height": 1500
+    }
+  ],
+  "villa-evening": [
+    {
+      "src": "/images/villa-evening-480.webp",
+      "width": 480,
+      "height": 320
+    },
+    {
+      "src": "/images/villa-evening-640.webp",
+      "width": 640,
+      "height": 427
+    },
+    {
+      "src": "/images/villa-evening-960.webp",
+      "width": 960,
+      "height": 640
+    },
+    {
+      "src": "/images/villa-evening-1440.webp",
+      "width": 1440,
+      "height": 960
+    },
+    {
+      "src": "/images/villa-evening-2000.webp",
+      "width": 2000,
+      "height": 1333
+    }
+  ],
+  "villa": [
+    {
+      "src": "/images/villa-480.webp",
+      "width": 480,
+      "height": 319
+    },
+    {
+      "src": "/images/villa-640.webp",
+      "width": 640,
+      "height": 426
+    },
+    {
+      "src": "/images/villa-960.webp",
+      "width": 960,
+      "height": 639
+    },
+    {
+      "src": "/images/villa-1440.webp",
+      "width": 1440,
+      "height": 958
+    },
+    {
+      "src": "/images/villa-2000.webp",
+      "width": 2000,
+      "height": 1331
+    }
+  ],
+  "waterlily": [
+    {
+      "src": "/images/waterlily-480.webp",
+      "width": 480,
+      "height": 320
+    },
+    {
+      "src": "/images/waterlily-640.webp",
+      "width": 640,
+      "height": 427
+    },
+    {
+      "src": "/images/waterlily-960.webp",
+      "width": 960,
+      "height": 640
+    },
+    {
+      "src": "/images/waterlily-1440.webp",
+      "width": 1440,
+      "height": 960
+    },
+    {
+      "src": "/images/waterlily-2000.webp",
+      "width": 2000,
+      "height": 1333
+    }
+  ]
+}
